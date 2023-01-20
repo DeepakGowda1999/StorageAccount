@@ -1,0 +1,72 @@
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\appsettings.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\StorageAccount.exe
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\StorageAccount.deps.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\StorageAccount.runtimeconfig.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\StorageAccount.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\StorageAccount.pdb
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Data.Tables.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Storage.Files.Shares.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.AssemblyReference.cache
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.AssemblyInfoInputs.cache
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.AssemblyInfo.cs
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.CoreCompileInputs.cache
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\scopedcss\bundle\StorageAccount.styles.css
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.CopyComplete
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\refint\StorageAccount.dll
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.pdb
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\StorageAccount.genruntimeconfig.cache
+C:\Users\M1084126\Desktop\Demo Project\StorageAccount\obj\Debug\net6.0\ref\StorageAccount.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\appsettings.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\StorageAccount.exe
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\StorageAccount.deps.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\StorageAccount.runtimeconfig.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\StorageAccount.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\StorageAccount.pdb
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Data.Tables.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Storage.Files.Shares.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Azure.Storage.Queues.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.AssemblyReference.cache
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.AssemblyInfoInputs.cache
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.AssemblyInfo.cs
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.CoreCompileInputs.cache
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\scopedcss\bundle\StorageAccount.styles.css
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.csproj.CopyComplete
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\refint\StorageAccount.dll
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.pdb
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\StorageAccount.genruntimeconfig.cache
+C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\obj\Debug\net6.0\ref\StorageAccount.dll
