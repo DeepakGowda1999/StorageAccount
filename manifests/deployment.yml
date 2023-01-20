@@ -1,0 +1,20 @@
+apiVersion : apps/v1
+	kind: Deployment
+	metadata:
+	  name: storageapi1 
+	spec:
+	  replicas: 1
+	  selector:
+	    matchLabels:
+	      app: storageapi1 
+	  template:
+	    metadata:
+	      labels:
+	        app: storageapi1 
+	    spec:
+	      containers:
+	        - name: storageapi1 
+	          image: storageapi1 acr.azurecr.io/storageapi1 
+	          ports:
+	          - containerPort: 80
+
