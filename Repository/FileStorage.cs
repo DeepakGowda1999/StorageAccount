@@ -5,7 +5,7 @@ namespace StorageAccount.Repository
 {
     public class FileStorage
     {
-        public static string connectionString="";
+        public static string connectionString="DefaultEndpointsProtocol=https;AccountName=deepakstorageaccountdemo;AccountKey=01LBNh3e/C0ugLCxHIRI9WMy007YHL0mD+wjsaIe7GYOH6lq6hP+MRCEiLUVZC6eLH//TfngyFFT+AStdNOOXQ==;EndpointSuffix=core.windows.net";
         static ShareServiceClient shareServiceClient=null;
         public static async Task CreateFile(string fileName)
         {
