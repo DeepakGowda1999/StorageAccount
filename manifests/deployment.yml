@@ -14,7 +14,7 @@ apiVersion : apps/v1
 	    spec:
 	      containers:
 	        - name: storageapi1 
-	          image: storageapi1 acr.azurecr.io/storageapi1 
+	          image: storageapi1acr.azurecr.io/storageapi1 
 	          ports:
 	          - containerPort: 80
 
