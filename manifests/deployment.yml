@@ -1,7 +1,7 @@
 apiVersion : apps/v1
 	kind: Deployment
 	metadata:
-	  name: iotdeviceapi 
+	  name: iotdeviceapi
 	spec:
 	  replicas: 1
 	  selector:
