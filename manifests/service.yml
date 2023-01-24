@@ -9,4 +9,3 @@ apiVersion: v1
 	    - port: 80 
 	    selector:
 	        app: iotdeviceapi
-
