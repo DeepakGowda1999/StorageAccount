@@ -2,7 +2,7 @@ Aks cluster: storageapi1
 apiVersion: v1
 	kind: Service
 	metadata:
-	    name: storageapi
+	    name: storageapi1
 	spec:
 	    type: LoadBalancer
 	    ports:
