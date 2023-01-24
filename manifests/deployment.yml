@@ -1,22 +1,23 @@
 apiVersion : apps/v1
 	kind: Deployment
 	metadata:
-	  name: storageapi1 
+	  name: iotdeviceapi 
 	spec:
 	  replicas: 1
 	  selector:
 	    matchLabels:
-	      app: storageapi1
+	      app: iotdeviceapi
 	  template:
 	    metadata:
 	      labels:
-	        app: storageapi1 
+	        app: iotdeviceapi 
 	    spec:
 	      containers:
-	        - name: storageapi1 
-	          image: storageapi1acr.azurecr.io/storageapi1
+	        - name: iotdeviceapi 
+	          image: iotdeviceapiacr.azurecr.io/iotdeviceapi
 	          ports:
 	          - containerPort: 80
+
 
 
 

@@ -1,11 +1,10 @@
-Aks cluster: storageapi1
 apiVersion: v1
 	kind: Service
 	metadata:
-	    name: storageapi1
+	    name: iotdeviceapi
 	spec:
 	    type: LoadBalancer
 	    ports:
 	    - port: 80 
 	    selector:
-	        app: storageapi1
+	        app: iotdeviceapi
