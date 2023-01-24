@@ -7,7 +7,7 @@ namespace StorageAccount.Repository
 {
     public class Queue
     {
-        static string connectionString="DefaultEndpointsProtocol=https;AccountName=deepakstorageaccountdemo;AccountKey=01LBNh3e/C0ugLCxHIRI9WMy007YHL0mD+wjsaIe7GYOH6lq6hP+MRCEiLUVZC6eLH//TfngyFFT+AStdNOOXQ==;EndpointSuffix=core.windows.net";
+        static string connectionString="";
         public static async Task<bool> CreateQueue(string queueName)
         {
             if(string.IsNullOrEmpty(queueName))
