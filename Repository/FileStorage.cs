@@ -85,7 +85,7 @@ namespace StorageAccount.Repository
         }
         public static async Task DownloadFile(string directoryName,string fileShareName,string fileName)
         {
-            string path=@"C:\Users\M1084126\Desktop\StorageAccount1\StorageAccount\Downloads\"+fileName;
+            string path=@"\"+fileName;
             shareServiceClient=new ShareServiceClient(connectionString);
             var serviceClient=shareServiceClient.GetShareClient(fileShareName);
             var dir=serviceClient.GetDirectoryClient(directoryName);
